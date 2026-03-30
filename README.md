@@ -1,6 +1,6 @@
 # ✈️ Brazilian Airports — Geospatial Data Analysis
 
-## 🌐 Live application 👉 **[brazilaero](https://brazilaero.streamlit.app)**
+## 🌐 Live application 👉 [![Streamlit App](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B.svg)](https://brazilaero.streamlit.app/)
 
 This project showcases an **end-to-end geospatial data analysis pipeline**, transforming raw government aviation data into a **clean, structured and interactive geospatial product**.
 
@@ -127,4 +127,6 @@ This project reflects real-world scenarios such as:
 
 ## 👤 Author
 
-Developed by **[Matheus Bissoli](https://www.linkedin.com/in/matheusbissoli/)**
+#### Developed by [**Matheus Bissoli**](https://matheusflb.github.io/)
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/matheusbissoli/)
