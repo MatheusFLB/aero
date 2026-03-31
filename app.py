@@ -219,10 +219,16 @@ IFR (Instrument Flight Rules) = instrument operations, allows low-visibility fli
     )
 
     st.markdown(
+        f"""
+        ### 👤 Author
+        ##### Project created by **Matheus Bissoli**
+        🌐 [Personal Site](https://matheusflb.github.io/) |
+        💼 [LinkedIn](https://www.linkedin.com/in/matheusbissoli/) |
+        💻 [GitHub](ttps://github.com/MatheusFLB/) |
+        🧑‍💻 [Source Code](https://github.com/MatheusFLB/aero/)
+
+
         """
-### 👤 Author
-Project created by **[Matheus Bissoli](https://www.linkedin.com/in/matheusbissoli/)**
-"""
     )
 
     st.markdown("### Input data")
